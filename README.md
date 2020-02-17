@@ -19,5 +19,5 @@ No installation needed.
 
 -------------------------------------------------------------------------------------------------
 EXECUTION
-For visulization demo, please run the "team28_d3_code/bosch_bihi/final_app.html" via Firefox. 
+For visulization demo, please run the "d3_code/bosch_bihi/final_app.html" via Firefox. 
 
